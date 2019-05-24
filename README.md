@@ -1,4 +1,4 @@
-# sentinel_indexs
+# sentinelPlugin 
 The project was created using Python in order to enable users to calculate agronimic indices like NDVI and NDII using Sentinel2 images
 pour la premiere version du script , les repertoires doivent être organisés d'une certaine manière pour que le code fonctionne correctement:
 * Un dossier Sentinel2: le dossier de travail qui doit contenir deux dossiers : 
